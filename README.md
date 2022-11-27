@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tindo7
-- 👀 I’m interested in ...android mobile dev
+- 👀 I’m interested in ...android mobile dev /dhis 2 customisation ,javascript
 - 🌱 I’m currently learning ...flutter
 - 💞️ I’m looking to collaborate on ...mobile app dev
 - 📫 How to reach me ...hakata.tendai@gmail.com
